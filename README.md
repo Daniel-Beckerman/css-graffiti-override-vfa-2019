@@ -33,8 +33,6 @@ steps:
 
 ## Observe the Browser Developer Tools
 
-Assuming you have opened the index file in Chrome, open the [dev tools][tools].
-You can quickly access Chrome dev tools with the keyboard shortcut
 `Cmd+Option+i` on a Mac, or by right/control-clicking anywhere in the window
 and selecting `inspect`.
 
